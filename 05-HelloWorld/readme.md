@@ -12,4 +12,5 @@
 
 -----
 可以将合约部署在以太坊测试链 goerli 上进行测试。
+
 goerli 的测试币需要通过水龙头免费领取，地址：(https://goerli-faucet.pk910.de)[https://goerli-faucet.pk910.de]。
